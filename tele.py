@@ -1,7 +1,7 @@
 # telebot-notes
 import telebot;
 from telebot import types
-bot = telebot.TeleBot('862674258:AAER5QIaVvQ5Dy_8I-D_sc7d32417Me7UuY');
+bot = telebot.TeleBot('');
 time = ''
 data = ''
 note = ''
